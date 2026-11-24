@@ -1,5 +1,5 @@
 public class Main {
 public static void main(String[] args) {
-System.out.println("Jornada do Herói - projeto em construção");
+System.out.println("A lenda do reino perdido - projeto em construção");
 }
 }
